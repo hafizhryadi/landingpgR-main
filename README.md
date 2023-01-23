@@ -1,8 +1,4 @@
 Please Use Node JS 16.13.0
-
-## Table of contents
-
-* [Usage](#usage)
   * [Available Scripts](#available-scripts)
     * [npm start](#npm-start)
     * [npm test](#npm-test)
